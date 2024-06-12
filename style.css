@@ -1,0 +1,11 @@
+    body {background-color: darkolivegreen;}
+
+     @media screen and  (max-width: 600px) {  
+
+       .part1 {color: darkgreen;
+            font-size: 150%;}
+     }
+        
+     
+        
+    
