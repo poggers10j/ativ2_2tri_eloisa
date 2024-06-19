@@ -13,7 +13,11 @@
      }
      .part1 {border-style: groove;
      border-color: red;
-     margin: 6px;}
+     margin: 6px;
+    }
+     .part2 {font-size: small;
+    }
+     
      
         
      
